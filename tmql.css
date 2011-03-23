@@ -1,0 +1,11 @@
+s  {color: #ba554b; background-color: #fcfbed; font-weight:normal; border: 1px solid #e8e8e8;} /* strings */
+u  {color: #90ad39; font-weight:bold;} /* env-clause (%prefix, %pragma) */
+a  {color: #666666; font-weight:bold;} /* special chars */
+tt {color: #009999; background-color: #ebfafa; font-weight:bold;} /* variables */
+b  {color: #e0a142; font-weight:bold;} /* reserved words */
+i  {color: #6f6e6e; background-color: #dbdada;font-weight:normal;} /* comments */
+
+em {color: #6f4679;font-weight:bold;} /* prefix */
+em a {color: #6f4679;font-weight:normal;} /* prefix extension */
+var em,
+var em a {color: #475e96; font-weight:bold; text-decoration: underline;} /* links */
